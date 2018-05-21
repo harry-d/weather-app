@@ -1,0 +1,11 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Harry's node.js weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"Hello weather app!\")"
+  },
+  "author": "Harry Dong",
+  "license": "ISC"
+}
