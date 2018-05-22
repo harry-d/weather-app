@@ -7,5 +7,9 @@
     "test": "console.log(\"Hello weather app!\")"
   },
   "author": "Harry Dong",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
 }
